@@ -6,6 +6,9 @@
 ## Project Overview
 The **iPart Table Scraper** is a Python-based web scraping utility designed to extract table data from web pages with pagination. This project ensures all table data is extracted, processed, and saved into a CSV file without any duplications. The scraper efficiently navigates through paginated data, consolidating information into a single, easy-to-use dataset.
 
+## Website URL
+https://tessa.energysustainabilityschemes.nsw.gov.au/ipart?id=ess_implementation_public
+
 ## Features
 1. **Table Data Extraction**: Automatically scrape all rows and columns from web tables.
 2. **Pagination Handling**: Traverse through all pages and extract data from each.
